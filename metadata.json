@@ -1,0 +1,6 @@
+{
+  "name": "기후위기 탈출 런",
+  "description": "기후 데이터를 활용한 교육용 픽셀 웹 게임: 탄소배출 변수를 피하고 씨앗을 심어 해수면 상승을 막고 빙하거인을 물리치세요.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
